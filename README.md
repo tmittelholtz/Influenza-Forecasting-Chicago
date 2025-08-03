@@ -136,7 +136,8 @@ From the prepared weekly table:
 * Per-season tables of metrics for LR, XGB, and both ensembles.
 * Saved **best ensemble-v2 params**, per-model predictions, and interval settings.
 * Plots: seasonal truth vs. predictions, plus **80% / 95%** interval bands.
-* ![One-week-ahead ensembled forecast with 80% intervals. including in peak flags — Example season 2018–19](./figures/output.png)
+* Single example plot here:
+  ![One-week-ahead ensembled forecast with 80% intervals. including in peak flags — Example season 2018–19](./figures/output.png)
 
 
 **Notes**
